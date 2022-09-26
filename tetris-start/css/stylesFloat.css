@@ -11,11 +11,12 @@ footer{
     z-index: -1;
 }
 figure{
+    float: right;
     width: 40%;
+    margin: 1em;
 }
 figure img{
     width: 100%;
-    margin: 1em;
 }
 div img{
     width: 60%;
